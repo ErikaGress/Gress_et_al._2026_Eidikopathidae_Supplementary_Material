@@ -102,6 +102,6 @@ Located in `Trees/`.
 - `Gress_et_al_2026_iqtree.treefile`  
   IQ-TREE phylogenetic tree file used in the supplementary analyses.
 
-## Citati## Citation
+## Citation
 
 Gress, E., Li, Y.-X., Opresko, D. M., & Qiu, J.-W. 2026. Integrating genomic distance analyses in the description of a new family, genus, and species of sponge-associated antipatharians (black corals). Molecular Phylogenetics and Evolution. https://doi.org/10.1016/j.ympev.2026.108718
